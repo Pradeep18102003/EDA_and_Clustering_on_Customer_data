@@ -1,6 +1,5 @@
-# ZEOTAP_ASSIGNMENT  
+# EDA and Clustering on customer data  
 
-This is a Repository to submit the assignment work given by Zeotap for the Data Science intern role. This Repository contains all the 6 files required for submission with conventional names  
 - Pradeep_Kumar_EDA.pdf  
 - Pradeep_Kumar_EDA.ipynb  
 - Pradeep_Kumar_Lookalike.csv  
